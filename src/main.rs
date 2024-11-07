@@ -15,6 +15,7 @@ mod hackerrank;
 mod cristmas_tree;
 mod invert_the_case;
 mod is_prime;
+mod string_rotate;
 
 fn main() {
     println!("Hello, world!");
