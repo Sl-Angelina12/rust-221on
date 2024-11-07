@@ -11,6 +11,10 @@ mod chapter12;
 mod gcd;
 mod rhombus;
 mod envelope;
+mod hackerrank;
+mod cristmas_tree;
+mod invert_the_case;
+mod is_prime;
 
 fn main() {
     println!("Hello, world!");
